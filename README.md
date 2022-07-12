@@ -1,0 +1,2 @@
+# Velodyne_to_IMU-calibration
+主要是基于苏黎世大学的lidar_algin工具来做的，激光雷达与IMU的标定。
